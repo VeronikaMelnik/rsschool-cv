@@ -3,7 +3,7 @@
 1. __Email :__ @vz2450wet.19@gmail.com
 1. __TG:__ @veroniikkaa
 
-![](/rsschool-cv/photo_2022-03-23_11-40-51.jpg)
+
 
 ## __About Myself__
 My aim is to develop my skills on JavaScrypt. 
