@@ -3,8 +3,6 @@
 1. __Email :__ @vz2450wet.19@gmail.com
 1. __TG:__ @veroniikkaa
 
-
-
 ## __About Myself__
 My aim is to develop my skills on JavaScrypt. 
 I don't have some professional knowledge and huge experience. But I'm a second-year student in the Minsk Radioengineering College.
